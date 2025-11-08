@@ -1,4 +1,3 @@
-```
 # 💬 Chatbot Project
 
 A simple and interactive **Chatbot Web Application** built using **React.js**.  
@@ -28,24 +27,23 @@ It allows users to chat with a friendly AI bot that responds instantly with pred
 - **Package:** [supersimpledev Chatbot API](https://www.npmjs.com/package/supersimpledev)  
 
 ---
----
 
 ## 🧩 How It Works
 
-1. Type a message and hit **Enter** or click **Send**.
-2. The chatbot replies automatically with either a predefined response or a random joke.
-3. Your messages and responses are saved locally.
+1. Type a message and hit **Enter** or click **Send**.  
+2. The chatbot replies automatically with either a predefined response or a random joke.  
+3. Your messages and responses are saved locally.  
 4. Click **Clear** to delete chat history.
 
 ---
 
 ## 🧠 Example Chat
 
-**You:** Who are you?
-**Bot:** I am your friendly chatbot!
+**You:** Who are you?  
+**Bot:** I am your friendly chatbot!  
 
-**You:** Tell me a joke
-**Bot:** Why don't scientists trust atoms? Because they make up everything! 😄
+**You:** Tell me a joke  
+**Bot:** Why don't scientists trust atoms? Because they make up everything! 😄  
 
 ---
 
@@ -58,11 +56,3 @@ Chatbot.addResponses({
   'hello': 'Hi there! How can I help you today?',
   'how are you': 'I’m just code, but I’m doing great! 🤖'
 });
-
----
-
-## 🖼️ Screenshots
-
-
----
-````
